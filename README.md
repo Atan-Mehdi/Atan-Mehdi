@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Atanmehdi I Matte
 
-![Hello GIF](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 I’m a passionate **Web Developer** who loves **learning new things** and **building cool projects**! Whether it's crafting beautiful web applications or working with exciting technologies, I'm always up for a challenge. 🚀
 
@@ -13,12 +13,15 @@ I’m a passionate **Web Developer** who loves **learning new things** and **bui
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
 ### 🔥 GitHub Stats
 ![Atanmehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Atan-Mehdi&show_icons=true&theme=radical)
-![GIF showing coding hard](https://media.giphy.com/media/jRfFHD4ThDgKY/giphy.gif)
+
 
 ### 🚀 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atan-Mehdi&layout=compact&theme=radical)
