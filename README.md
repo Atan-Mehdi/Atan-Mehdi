@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Atanmehdi I Matte
+## Hey there! 👋 I'm Atan Mehdi
 
 ![Cat Coding](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
